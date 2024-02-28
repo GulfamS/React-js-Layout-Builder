@@ -1,0 +1,19 @@
+.header-container {
+  background-color: #cbd5e1;
+  width: 80%;
+  padding: 5px;
+}
+
+.header {
+  font-family: Roboto;
+  color: #475569;
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .header {
+    font-size: 38px;
+  }
+}
